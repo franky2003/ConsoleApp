@@ -1,0 +1,5 @@
+The Great Gatsby,F. Scott Fitzgerald,350.0,13
+Wings of Fire,A.P.J. Abdul Kalam,600.0,16
+1984,George Orwell,500.0,20
+Playing It My Way,Sachin Tendulkar,550.0,28
+The Test of My Life,Yuvraj Singh,500.0,20
